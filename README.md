@@ -3,7 +3,7 @@
   <img src="https://telegra.ph/file/af64f1573f5a149d21eea.jpg" alt="LUCIFER BOT LOGO">
 </p>
 <h1 align="center">
-  <b> 𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑 𝐁𝐎𝐓</b>
+  <b> LUCIFER BOT</b>
 </h1>
 
 [![Stars](https://img.shields.io/github/stars/MrMKN/Professor-Bot?style=flat-square&color=yellow)](https://github.com/MrMKN/Professor-Bot/stargazers)

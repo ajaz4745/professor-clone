@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+LUCIFER+BOT!;CREATED+BY+ANONYMOUS!;I+AM+A+SIMPLE+TG+AUTOFILTER+BOT!)</p>
 <p align="center">
-  <img src="https://telegra.ph/file/cf1a9362643ec3375589d.jpg" alt="MKN BOTZ LOGO">
+  <img src="https://telegra.ph/file/af64f1573f5a149d21eea.jpg" alt="LUCIFER BOT LOGO">
 </p>
 <h1 align="center">
   <b> 𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑 𝐁𝐎𝐓</b>
